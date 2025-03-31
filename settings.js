@@ -57,7 +57,7 @@ global.avatar = 'https://d.uguu.se/wtlgeWCq.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.gp1 = 'https://chat.whatsapp.com/Ecz881bBgqPIWjDOaKkp7E'
+global.gp1 = 'https://chat.whatsapp.com/CJ0MGb6XNYq2kJc0HX3Jcf'
 global.comunidad1 = 'https://chat.whatsapp.com/EwrwcGvpLf1BnMhP3B4axD'
 global.channel = 'https://whatsapp.com/channel/0029VapSIvR5EjxsD1B7hU3T'
 global.channel2 = 'https://whatsapp.com/channel/0029VapSIvR5EjxsD1B7hU3T'
