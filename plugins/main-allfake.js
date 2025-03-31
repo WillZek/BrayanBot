@@ -77,7 +77,7 @@ let canal2 = 'https://chat.whatsapp.com/CJ0MGb6XNYq2kJc0HX3Jcf'
 var git = 'https://www.instagram.com/foggercraxy?igsh=YzljYTk1ODg3Zg==' 
 let correo = 'https://www.facebook.com/profile.php?id=61559549348247'
 
-global.redes = [canal2, git, github, correo].getRandom()
+global.redes = [canal2, git, correo].getRandom()
 
 //Imagen
 let category = "imagen"
