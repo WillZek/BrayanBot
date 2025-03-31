@@ -59,11 +59,11 @@ global.avatar = 'https://d.uguu.se/wtlgeWCq.jpg'
 
 global.gp1 = 'https://chat.whatsapp.com/CJ0MGb6XNYq2kJc0HX3Jcf'
 global.comunidad1 = 'https://chat.whatsapp.com/JJ0fOfrydgxIJDwB6BgfWU'
-global.channel = 'https://whatsapp.com/channel/0029VapSIvR5EjxsD1B7hU3T'
-global.channel2 = 'https://whatsapp.com/channel/0029VapSIvR5EjxsD1B7hU3T'
-global.md = 'https://github.com/The-King-Destroy/Yuki_Suou-Bot'
-global.correo = 'thekingdestroy507@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029VapSIvR5EjxsD1B7hU3T';
+global.channel = 'https://whatsapp.com/channel/0029Vb5qnKGBfxo1V95vX83P'
+global.channel2 = 'https://whatsapp.com/channel/0029Vb5qnKGBfxo1V95vX83P'
+global.md = 'https://github.com/WillZek/BrayanBot'
+global.correo = 'ninopina10@gmail.com'
+global.cn ='https://whatsapp.com/channel/0029Vb5qnKGBfxo1V95vX83P';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
