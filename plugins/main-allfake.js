@@ -72,14 +72,12 @@ global.waitt = '❍ Espera un momento, soy lenta...';
 global.waittt = '❍ Espera un momento, soy lenta...';
 global.waitttt = '❍ Espera un momento, soy lenta...';
 
-//Enlaces
-var canal = 'https://whatsapp.com/channel/0029VapSIvR5EjxsD1B7hU3T'  
-let canal2 = 'https://whatsapp.com/channel/0029VavzewJLikg78gILRn1o'
-var git = 'https://github.com/The-King-Destroy'
-var github = 'https://github.com/The-King-Destroy/Yuki_Suou-Bot' 
-let correo = 'thekingdestroy507@gmail.com'
+//Enlaces  
+let canal2 = 'https://chat.whatsapp.com/CJ0MGb6XNYq2kJc0HX3Jcf'
+var git = 'https://www.instagram.com/foggercraxy?igsh=YzljYTk1ODg3Zg==' 
+let correo = 'https://www.facebook.com/profile.php?id=61559549348247'
 
-global.redes = [canal, canal2, git, github, correo].getRandom()
+global.redes = [canal2, git, github, correo].getRandom()
 
 //Imagen
 let category = "imagen"
