@@ -62,7 +62,7 @@ global.comunidad1 = 'https://chat.whatsapp.com/JJ0fOfrydgxIJDwB6BgfWU'
 global.channel = 'https://whatsapp.com/channel/0029Vb5qnKGBfxo1V95vX83P'
 global.channel2 = 'https://whatsapp.com/channel/0029Vb5qnKGBfxo1V95vX83P'
 global.md = 'https://github.com/WillZek/BrayanBot'
-global.correo = 'ninopina10@gmail.com'
+global.correo = 'brayhanmichelariaslora@gmail.com'
 global.cn ='https://whatsapp.com/channel/0029Vb5qnKGBfxo1V95vX83P';
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
