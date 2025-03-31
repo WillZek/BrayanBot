@@ -39,8 +39,8 @@ global.listo = '❀ *Aquí tienes ฅ^•ﻌ•^ฅ*'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://d.uguu.se/wtlgeWCq.jpg')
 
 //Ids channel
-global.canalIdM = ["120363322713003916@newsletter", "120363322713003916@newsletter"]
-global.canalNombreM = ["ᰔᩚ ᥡᥙkіᑲ᥆𝗍-mძ • ᥙ⍴ძᥲ𝗍ᥱs ❀", "ᰔᩚ ᥡᥙkіᑲ᥆𝗍-mძ • ᥲ᥎іs᥆s ❀"]
+global.canalIdM = [""]
+global.canalNombreM = ["𝐁𝐫𝐚𝐲𝐚𝐧𝐁𝐨𝐭 • 𝐂𝐡𝐚𝐧𝐧𝐞𝐥"]
 global.channelRD = await getRandomChannel()
 
 //fechas
