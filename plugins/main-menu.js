@@ -14,7 +14,7 @@ Hola! Soy  *${botname}*  ٩(˘◡˘)۶
 Aquí tienes la lista de comandos
 ╭┈ ↷
 │ᰔᩚ Cliente » @${userId.split('@')[0]}
-│❀ Modo » Publico
+│❀ Modo » Privado
 │✦ Bot » ${(conn.user.jid == global.conn.user.jid ? 'Principal 🅥' : 'Prem Bot 🅑')}
 │ⴵ Activado » ${uptime}
 │✰ Usuarios » ${totalreg}
