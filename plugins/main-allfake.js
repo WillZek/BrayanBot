@@ -31,12 +31,12 @@ console.log(`Error : ${e}`)
 global.creador = 'Wa.me/584120346669'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'Wa.me/584120346669'
-global.namechannel = 'ᰔᩚ ᥡᥙkіᑲ᥆𝗍-mძ • ᥙ⍴ძᥲ𝗍ᥱs ❀'
-global.namechannel2 = 'ᰔᩚ ᥡᥙkіᑲ᥆𝗍-mძ • ᥲ᥎іs᥆s ❀'
-global.namegrupo = 'ᰔᩚ ᥡᥙkіᑲ᥆𝗍-mძ • ᥆𝖿іᥴіᥲᥣ ❀'
-global.namecomu = 'ᰔᩚ ᥡᥙkіᑲ᥆𝗍-mძ • ᥴ᥆mᥙᥒі𝗍ᥡ ❀'
+global.namechannel = 'ᰔᩚ ᑲrᥲᥡᥲᥒᑲ᥆𝗍-mძ • ᥙ⍴ძᥲ𝗍ᥱs ❀'
+global.namechannel2 = 'ᰔᩚ ᑲrᥲᥡᥲᥒᑲ᥆𝗍-mძ • ᥲ᥎іs᥆s ❀'
+global.namegrupo = 'ᰔᩚ ᑲrᥲᥡᥲᥒᑲ᥆𝗍-mძ • ᥆𝖿іᥴіᥲᥣ ❀'
+global.namecomu = 'ᰔᩚ ᑲrᥲᥡᥲᥒᑲ᥆𝗍-mძ • ᥴ᥆mᥙᥒі𝗍ᥡ ❀'
 global.listo = '❀ *Aquí tienes ฅ^•ﻌ•^ฅ*'
-global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/xr2m6u.jpg')
+global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://d.uguu.se/wtlgeWCq.jpg')
 
 //Ids channel
 global.canalIdM = ["120363322713003916@newsletter", "120363322713003916@newsletter"]
